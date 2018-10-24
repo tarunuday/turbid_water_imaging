@@ -107,7 +107,7 @@ class imageSet:
             img=self.applyclahe(img,clipLimit)
             sumimg+=np.float64(img)
         print ""
-        return self.normalise(sumimg)
+        return cv2.normalise(sumimg)
 
 if __name__ == '__main__':
     imSet=imageSet(sys.argv[1])
