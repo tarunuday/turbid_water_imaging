@@ -47,8 +47,9 @@ class imageSet:
             img=cv2.imread(self.filenames[i])
             sumimg+=np.float64(img)
         print ""
-        return self.normalise(sumimg)
-    
+        img=self.normalise(sumimg)
+        return img
+
     def normalise(self,float64image):
         m=np.max(float64image)
         float64image=np.around(float64image/m*255)
@@ -107,7 +108,9 @@ class imageSet:
             img=self.applyclahe(img,clipLimit)
             sumimg+=np.float64(img)
         print ""
-        return cv2.normalise(sumimg)
+#        cv2.normalize(sumimg,img)
+        img=self.normalise(sumimg)
+        return img
 
 if __name__ == '__main__':
     imSet=imageSet(sys.argv[1])
@@ -115,4 +118,4 @@ if __name__ == '__main__':
     image1=imSet.sum(noimages)
     image1=imSet.applyclahe(image1,5)
     image2=imSet.clahesum(noimages,5)
-    imSet.disp(np.clip((image1-image2)*6,0,255))
+    imSet.disp(image1)
