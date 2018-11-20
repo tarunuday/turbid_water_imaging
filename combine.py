@@ -20,11 +20,12 @@ class imageSet:
         self.getFilenames()
         self.count=len(self.filenames)
         self.displaysOn=0
+        self.imageFormat=".JPG"
 
     def getFilenames(self):
-        files = [self.mypath+"/"+f for f in listdir(self.mypath) if isfile(join(self.mypath, f)) and f.endswith(".bmp")]
+        files = [self.mypath+"/"+f for f in listdir(self.mypath) if isfile(join(self.mypath, f)) and f.endswith(".JPG")]
         files.sort()
-        print str(len(files))+" bmp files found."
+        print str(len(files))+"  files found.\n"
         self.filenames = files
 
     def sum(self,count):
@@ -57,14 +58,16 @@ class imageSet:
         return float64image.astype(np.uint8)
 
     
-    def applyclahe(self,image,claheClipLimit):
+    def applyclahe(self,image,claheClipLimit,tileDim):
         image=cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-        return cv2.createCLAHE(clipLimit=claheClipLimit,tileGridSize=(8,8)).apply(image)
+        return cv2.createCLAHE(clipLimit=claheClipLimit,tileGridSize=(tileDim,tileDim)).apply(image)
         
     def disp(self,image):
         windowName="Display"+str(self.displaysOn)
         self.displaysOn+=1
+        cv2.namedWindow(windowName,cv2.WINDOW_NORMAL)
         cv2.imshow(windowName,image)
+        cv2.resizeWindow(windowName, 1000,1000)
         print "Press s to save, ESC to exit"
         while(True):
             k=cv2.waitKey(0)
@@ -73,7 +76,7 @@ class imageSet:
                 self.displaysOn-=1
                 break
             elif k == ord('s'): # wait for 's' key to save and exit
-                cv2.imwrite("../twi/sample/saved.png",image)
+                cv2.imwrite("/home/tarun/projects/thesis/samples/"+str(int(time.mktime(time.gmtime())))+".png",image)
                 print "Saved"
                 self.displaysOn-=1
                 cv2.destroyWindow(windowName)
@@ -86,7 +89,7 @@ class imageSet:
         plt.xlim([0,256])
         plt.show()
 
-    def clahesum(self,count,clipLimit):
+    def clahesum(self,count,clipLimit,tileDim):
         try:
             self.filenames
         except NameError:
@@ -95,7 +98,7 @@ class imageSet:
         if count==0:
             count=len(self.filenames)
         elif count>len(self.filenames):
-            print "Requested to sum "+str(count)+" files. Only "+str(len(self.filenames))+" files exist."
+            print "Requested to sum "+str(count)+" files. Only "+str(len(self.filenames))+" files exist. \n"
             count=len(self.filenames)
 
         image=cv2.imread(self.filenames[0])
@@ -105,17 +108,23 @@ class imageSet:
             sys.stdout.write("\033[F")
             print "Applying clahe and summimg image "+str(i+1)+" out of "+str(count)
             img=cv2.imread(self.filenames[i])
-            img=self.applyclahe(img,clipLimit)
+            img=self.applyclahe(img,clipLimit,tileDim)
             sumimg+=np.float64(img)
         print ""
-#        cv2.normalize(sumimg,img)
         img=self.normalise(sumimg)
         return img
 
 if __name__ == '__main__':
-    imSet=imageSet(sys.argv[1])
-    noimages=20
-    image1=imSet.sum(noimages)
-    image1=imSet.applyclahe(image1,5)
-    image2=imSet.clahesum(noimages,5)
-    imSet.disp(image1)
+    args=len(sys.argv)
+    if args == 1:
+        print("Enter directory")
+    if args >= 2:
+        imSet=imageSet(sys.argv[1])
+    if args >= 3:
+        noimages=sys.argv[2]
+    else:
+        noimages=22
+    image=imSet.applyclahe(imSet.sum(noimages),8,8)
+#    image=imSet.clahesum(noimages,8,8)
+#    image=imSet.sum(noimages)
+    imSet.disp(image)
