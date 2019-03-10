@@ -9,6 +9,11 @@ from os.path import isfile, join
 import cv2
 import time
 
+pt_tl=(300,300)
+pt_br=(3000,1500)
+
+
+
 def applyclahe(image,claheClipLimit,tileDim):
     try:
         image=cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
@@ -16,7 +21,16 @@ def applyclahe(image,claheClipLimit,tileDim):
         pass
     return cv2.createCLAHE(clipLimit=claheClipLimit,tileGridSize=(tileDim,tileDim)).apply(image)
 
-def disp(image):
+def Qscore(image):
+    image=image[pt_tl[1]:pt_br[1],pt_tl[0]:pt_br[0]]
+    sharpness = cv2.Laplacian(image, cv2.CV_64F).var()
+    contrast = np.log(-1* cv2.Laplacian(image, cv2.CV_64F).mean())
+#    snr=10*np.log(np.mean(image)/np.std(image))
+    print("Blur score: "+str(sharpness))
+    print("Contrast score: "+str(contrast))
+#    print("SNR: "+str(snr))
+
+def disp(image,name):
     windowName="Display"
     cv2.namedWindow(windowName,cv2.WINDOW_NORMAL)
     cv2.imshow(windowName,image)
@@ -28,8 +42,8 @@ def disp(image):
             cv2.destroyWindow(windowName)
             break
         elif k == ord('s'): # wait for 's' key to save and exit
-            name=str(int(time.mktime(time.gmtime())))
-            cv2.imwrite("/home/tarun/projects/thesis/samples/"+name+".png",image)
+            t=str(int(time.mktime(time.gmtime())))
+            cv2.imwrite("/home/tarun/projects/thesis/samples/"+name+"_fl"+".png",image)
             print "Saved"
             cv2.destroyWindow(windowName)
             break;
@@ -49,16 +63,15 @@ if __name__ == '__main__':
     if args >= 2:
         im=sys.argv[1]
     if args >= 3:
-        claheLim=sys.argv[2]
+        claheLim=float(sys.argv[2])
     else:
         claheLim=2
     if args >= 4:
-        tileDim=sys.argv[3]
+        tileDim=int(sys.argv[3])
     else:
         tileDim=8
-        
+
     image=cv2.imread(im)
-    image=image[200:600,360:960]
-    image=applyclahe(image,claheLim,tileDim)
-    disp(image)
+    image=cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    disp(image,im.split('/')[-3])
         

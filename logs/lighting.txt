@@ -1,0 +1,653 @@
+date: 2019/3/9  time: 18:40:29 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/9  time: 18:40:29 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/9  time: 18:40:35 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 18:40:35 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 18:40:36 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 18:40:39 blocks - #x #y overlap: 5 1 0.3 block position: 3
+date: 2019/3/9  time: 18:40:39 blocks - #x #y overlap: 5 1 0.3 block position: 4
+date: 2019/3/9  time: 18:40:39 blocks - #x #y overlap: 5 1 0.3 block position: 5
+date: 2019/3/9  time: 18:40:39 blocks - #x #y overlap: 5 1 0.3 block position: 6
+date: 2019/3/9  time: 18:40:57 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/9  time: 18:40:58 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/9  time: 18:40:58 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 18:40:58 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 18:41:0 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 18:41:0 blocks - #x #y overlap: 5 1 0.3 block position: 3
+date: 2019/3/9  time: 18:41:1 blocks - #x #y overlap: 5 1 0.3 block position: 4
+date: 2019/3/9  time: 18:41:1 blocks - #x #y overlap: 5 1 0.3 block position: 4
+date: 2019/3/9  time: 18:42:59 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/9  time: 18:43:0 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/9  time: 18:43:2 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 18:43:2 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 18:43:2 blocks - #x #y overlap: 5 1 0.3 block position: 3
+date: 2019/3/9  time: 18:43:2 blocks - #x #y overlap: 5 1 0.3 block position: 4
+date: 2019/3/9  time: 18:43:3 blocks - #x #y overlap: 5 1 0.3 block position: 4
+date: 2019/3/9  time: 18:43:5 blocks - #x #y overlap: 5 1 0.3 block position: 5
+date: 2019/3/9  time: 18:43:5 blocks - #x #y overlap: 5 1 0.3 block position: 6
+date: 2019/3/9  time: 18:43:5 blocks - #x #y overlap: 5 1 0.3 block position: 7
+date: 2019/3/9  time: 18:43:5 blocks - #x #y overlap: 5 1 0.3 block position: 7
+date: 2019/3/9  time: 18:43:7 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 18:43:7 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 18:43:7 blocks - #x #y overlap: 5 1 0.3 block position: 3
+date: 2019/3/9  time: 18:43:7 blocks - #x #y overlap: 5 1 0.3 block position: 3
+date: 2019/3/9  time: 18:46:5 blocks - #x #y overlap: 5 1 0.3 block position: 3
+date: 2019/3/9  time: 18:53:14 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/9  time: 18:53:18 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/9  time: 18:53:18 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 18:53:27 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/9  time: 18:53:30 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/9  time: 18:53:30 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 18:53:31 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 18:53:31 blocks - #x #y overlap: 5 1 0.3 block position: 3
+date: 2019/3/9  time: 18:53:31 blocks - #x #y overlap: 5 1 0.3 block position: 4
+date: 2019/3/9  time: 18:53:31 blocks - #x #y overlap: 5 1 0.3 block position: 5
+date: 2019/3/9  time: 18:53:54 blocks - #x #y overlap: 5 1 0.3 block position: 5
+date: 2019/3/9  time: 18:53:54 blocks - #x #y overlap: 5 1 0.3 block position: 5
+date: 2019/3/9  time: 18:53:56 blocks - #x #y overlap: 5 1 0.3 block position: 5
+date: 2019/3/10  time: -5:1:48 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/10  time: -5:1:50 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/10  time: -5:1:56 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:1:56 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: -5:1:57 blocks - #x #y overlap: 5 1 0.3 block position: 3
+date: 2019/3/10  time: -5:1:57 blocks - #x #y overlap: 5 1 0.3 block position: 4
+date: 2019/3/10  time: -5:1:58 blocks - #x #y overlap: 5 1 0.3 block position: 5
+date: 2019/3/10  time: -5:2:1 blocks - #x #y overlap: 5 1 0.3 block position: 6
+date: 2019/3/10  time: -5:2:12 blocks - #x #y overlap: 5 1 0.3 block position: 6
+date: 2019/3/10  time: -5:2:12 blocks - #x #y overlap: 5 1 0.3 block position: 6
+date: 2019/3/10  time: -5:2:32 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/10  time: -5:2:33 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/10  time: -5:2:34 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:2:35 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: -5:2:35 blocks - #x #y overlap: 5 1 0.3 block position: 3
+date: 2019/3/10  time: -5:2:35 blocks - #x #y overlap: 5 1 0.3 block position: 4
+date: 2019/3/10  time: -5:2:35 blocks - #x #y overlap: 5 1 0.3 block position: 5
+date: 2019/3/10  time: -5:4:16 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/10  time: -5:4:17 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/10  time: -5:4:18 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:4:59 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/10  time: -5:5:0 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/10  time: -5:5:1 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:5:1 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: -5:5:2 blocks - #x #y overlap: 5 1 0.3 block position: 3
+date: 2019/3/10  time: -5:5:2 blocks - #x #y overlap: 5 1 0.3 block position: 4
+date: 2019/3/10  time: -5:5:2 blocks - #x #y overlap: 5 1 0.3 block position: 5
+date: 2019/3/10  time: -5:5:2 blocks - #x #y overlap: 5 1 0.3 block position: 6
+date: 2019/3/10  time: -5:5:3 blocks - #x #y overlap: 5 1 0.3 block position: 7
+date: 2019/3/10  time: -5:5:3 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:5:4 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: -5:5:5 blocks - #x #y overlap: 5 1 0.3 block position: 3
+date: 2019/3/10  time: -5:5:5 blocks - #x #y overlap: 5 1 0.3 block position: 4
+date: 2019/3/10  time: -5:5:5 blocks - #x #y overlap: 5 1 0.3 block position: 5
+date: 2019/3/10  time: -5:5:5 blocks - #x #y overlap: 5 1 0.3 block position: 6
+date: 2019/3/10  time: -5:5:5 blocks - #x #y overlap: 5 1 0.3 block position: 7
+date: 2019/3/10  time: -5:5:6 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:5:11 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/10  time: -5:5:12 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/10  time: -5:5:12 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:5:13 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: -5:5:13 blocks - #x #y overlap: 5 1 0.3 block position: 3
+date: 2019/3/10  time: -5:5:13 blocks - #x #y overlap: 5 1 0.3 block position: 4
+date: 2019/3/10  time: -5:5:13 blocks - #x #y overlap: 5 1 0.3 block position: 5
+date: 2019/3/10  time: -5:5:13 blocks - #x #y overlap: 5 1 0.3 block position: 6
+date: 2019/3/10  time: -5:5:14 blocks - #x #y overlap: 5 1 0.3 block position: 7
+date: 2019/3/10  time: -5:5:14 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:5:15 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: -5:5:15 blocks - #x #y overlap: 5 1 0.3 block position: 3
+date: 2019/3/10  time: -5:5:16 blocks - #x #y overlap: 5 1 0.3 block position: 4
+date: 2019/3/10  time: -5:5:16 blocks - #x #y overlap: 5 1 0.3 block position: 5
+date: 2019/3/10  time: -5:5:16 blocks - #x #y overlap: 5 1 0.3 block position: 6
+date: 2019/3/10  time: -5:5:16 blocks - #x #y overlap: 5 1 0.3 block position: 7
+date: 2019/3/10  time: -5:5:16 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:5:17 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:8:2 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/10  time: -5:8:3 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/10  time: -5:8:3 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:8:3 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: -5:8:4 blocks - #x #y overlap: 5 1 0.3 block position: 3
+date: 2019/3/10  time: -5:8:4 blocks - #x #y overlap: 5 1 0.3 block position: 4
+date: 2019/3/10  time: -5:8:4 blocks - #x #y overlap: 5 1 0.3 block position: 5
+date: 2019/3/10  time: -5:8:4 blocks - #x #y overlap: 5 1 0.3 block position: 6
+date: 2019/3/10  time: -5:8:4 blocks - #x #y overlap: 5 1 0.3 block position: 7
+date: 2019/3/10  time: -5:8:5 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:8:11 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/10  time: -5:8:12 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/10  time: -5:8:12 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:8:13 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: -5:8:13 blocks - #x #y overlap: 5 1 0.3 block position: 3
+date: 2019/3/10  time: -5:8:13 blocks - #x #y overlap: 5 1 0.3 block position: 4
+date: 2019/3/10  time: -5:8:13 blocks - #x #y overlap: 5 1 0.3 block position: 5
+date: 2019/3/10  time: -5:8:13 blocks - #x #y overlap: 5 1 0.3 block position: 6
+date: 2019/3/10  time: -5:8:14 blocks - #x #y overlap: 5 1 0.3 block position: 7
+date: 2019/3/10  time: -5:8:14 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:8:19 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:8:27 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:8:38 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: -5:8:38 blocks - #x #y overlap: 5 1 0.3 block position: 3
+date: 2019/3/10  time: -5:8:38 blocks - #x #y overlap: 5 1 0.3 block position: 4
+date: 2019/3/10  time: -5:8:38 blocks - #x #y overlap: 5 1 0.3 block position: 5
+date: 2019/3/10  time: -5:8:39 blocks - #x #y overlap: 5 1 0.3 block position: 6
+date: 2019/3/10  time: -5:8:39 blocks - #x #y overlap: 5 1 0.3 block position: 7
+date: 2019/3/10  time: -5:8:39 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:8:40 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:8:41 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:8:42 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:8:54 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/10  time: -5:8:55 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/10  time: -5:8:56 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:8:58 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:8:58 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:9:28 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/10  time: -5:9:31 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/10  time: -5:9:31 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:9:31 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:9:32 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:9:33 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:9:39 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/10  time: -5:9:40 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/10  time: -5:9:41 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:9:41 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: -5:9:41 blocks - #x #y overlap: 5 1 0.3 block position: 3
+date: 2019/3/10  time: -5:9:41 blocks - #x #y overlap: 5 1 0.3 block position: 4
+date: 2019/3/10  time: -5:9:41 blocks - #x #y overlap: 5 1 0.3 block position: 5
+date: 2019/3/10  time: -5:9:42 blocks - #x #y overlap: 5 1 0.3 block position: 6
+date: 2019/3/10  time: -5:9:42 blocks - #x #y overlap: 5 1 0.3 block position: 7
+date: 2019/3/10  time: -5:9:42 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:9:43 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: -5:9:43 blocks - #x #y overlap: 5 1 0.3 block position: 3
+date: 2019/3/10  time: -5:9:43 blocks - #x #y overlap: 5 1 0.3 block position: 4
+date: 2019/3/10  time: -5:9:43 blocks - #x #y overlap: 5 1 0.3 block position: 5
+date: 2019/3/10  time: -5:9:43 blocks - #x #y overlap: 5 1 0.3 block position: 6
+date: 2019/3/10  time: -5:9:44 blocks - #x #y overlap: 5 1 0.3 block position: 7
+date: 2019/3/10  time: -5:9:50 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:9:50 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: -5:9:51 blocks - #x #y overlap: 5 1 0.3 block position: 3
+date: 2019/3/10  time: -5:9:51 blocks - #x #y overlap: 5 1 0.3 block position: 4
+date: 2019/3/10  time: -5:9:51 blocks - #x #y overlap: 5 1 0.3 block position: 5
+date: 2019/3/10  time: -5:9:51 blocks - #x #y overlap: 5 1 0.3 block position: 6
+date: 2019/3/10  time: -5:9:51 blocks - #x #y overlap: 5 1 0.3 block position: 7
+date: 2019/3/10  time: -5:19:30 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/10  time: -5:19:33 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/10  time: -5:19:33 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:19:34 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: -5:19:34 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:19:34 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: -5:19:35 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:19:35 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: -5:19:35 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:19:36 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: -5:19:38 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: -5:19:38 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: -5:19:55 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/10  time: -5:19:58 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/10  time: -5:19:59 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:20:0 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: -5:20:0 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:20:0 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: -5:20:1 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:20:11 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:20:12 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: -5:20:20 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: :21:40 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/10  time: :21:42 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/10  time: :21:43 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: :21:44 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: :21:44 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: :21:46 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: 19:23:3 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/10  time: 19:23:37 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/10  time: 19:23:37 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: 19:23:38 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: 19:27:27 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/10  time: 19:27:27 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/10  time: 19:27:27 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: 19:27:27 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: 19:27:27 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: 19:27:27 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: 19:27:27 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: 19:27:27 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: 19:27:27 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: 19:27:27 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: 19:27:27 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: 19:27:27 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: 19:27:27 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: 19:27:27 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: 19:27:27 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: 19:27:27 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: 19:27:27 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: 19:28:06 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/10  time: 19:28:07 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/10  time: 19:28:09 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: 19:28:09 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: 19:28:09 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: 19:28:09 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: 19:28:09 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: 19:28:10 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: 19:28:11 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: 19:28:11 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: 19:28:11 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: 19:28:11 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: 19:28:24 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: 19:28:45 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: 19:28:57 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: 19:29:00 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: 19:30:50 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: 19:32:26 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: 19:32:28 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: 19:33:16 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: 19:33:17 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: 19:33:17 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: 19:33:17 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: 19:33:17 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/10  time: 19:33:18 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/10  time: 19:33:19 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:33:52 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/9  time: 19:33:55 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/9  time: 19:33:57 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:33:57 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:33:58 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:33:59 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:34:00 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:34:00 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:34:01 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:34:04 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:34:31 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/9  time: 19:34:32 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/9  time: 19:34:32 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:34:34 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:34:34 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:34:35 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:34:35 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:34:36 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:35:04 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:35:43 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:36:09 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:36:10 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:36:10 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:36:10 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:36:10 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:36:11 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:36:11 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:36:11 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:36:12 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:36:12 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:36:14 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:36:46 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/9  time: 19:36:48 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/9  time: 19:36:48 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:36:49 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:36:50 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:36:50 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:36:51 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:36:51 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:36:52 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:37:08 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:37:09 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:37:09 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:37:10 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:37:26 blocks - #x #y overlap: 5 1 0.3 block position: -1
+date: 2019/3/9  time: 19:37:27 blocks - #x #y overlap: 5 1 0.3 block position: 0
+date: 2019/3/9  time: 19:37:27 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:37:27 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:37:28 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:37:29 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:37:29 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:37:29 blocks - #x #y overlap: 5 1 0.3 block position: 2
+date: 2019/3/9  time: 19:37:30 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:37:59 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:37:59 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:38:00 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:38:00 blocks - #x #y overlap: 5 1 0.3 block position: 1
+date: 2019/3/9  time: 19:50:39 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (-1 -1)
+date: 2019/3/9  time: 19:50:41 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0)
+date: 2019/3/9  time: 19:50:42 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (1 1)
+date: 2019/3/9  time: 19:50:42 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (2 1)
+date: 2019/3/9  time: 19:50:42 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (1 1)
+date: 2019/3/9  time: 19:50:43 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (2 1)
+date: 2019/3/9  time: 19:50:43 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (1 1)
+date: 2019/3/9  time: 19:50:43 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (2 1)
+date: 2019/3/9  time: 19:50:44 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (1 1)
+date: 2019/3/9  time: 19:50:44 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (2 1)
+date: 2019/3/9  time: 19:50:44 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (1 1)
+date: 2019/3/9  time: 19:50:45 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (2 1)
+date: 2019/3/9  time: 19:50:45 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (1 1)
+date: 2019/3/9  time: 19:50:45 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (2 1)
+date: 2019/3/9  time: 19:50:46 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (1 1)
+date: 2019/3/9  time: 19:50:47 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (2 1)
+date: 2019/3/9  time: 19:50:48 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (1 1)
+date: 2019/3/9  time: 19:50:49 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (2 1)
+date: 2019/3/9  time: 19:50:49 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (1 1)
+date: 2019/3/9  time: 19:50:53 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (2 1)
+date: 2019/3/9  time: 19:50:53 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (1 1)
+date: 2019/3/9  time: 19:50:56 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (2 1)
+date: 2019/3/9  time: 19:50:56 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (1 1)
+date: 2019/3/9  time: 19:56:41 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (-1 -1) max pos (x y): (7.0 1.0)
+date: 2019/3/9  time: 19:56:41 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7.0 1.0)
+date: 2019/3/9  time: 19:57:00 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (-1 -1) max pos (x y): (7.0 1.0)
+date: 2019/3/9  time: 19:57:01 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7.0 1.0)
+date: 2019/3/9  time: 19:57:01 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7.0 1.0)
+date: 2019/3/9  time: 19:57:01 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7.0 1.0)
+date: 2019/3/9  time: 19:57:02 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7.0 1.0)
+date: 2019/3/9  time: 19:57:02 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7.0 1.0)
+date: 2019/3/9  time: 19:57:02 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7.0 1.0)
+date: 2019/3/9  time: 19:57:02 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7.0 1.0)
+date: 2019/3/9  time: 19:57:02 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7.0 1.0)
+date: 2019/3/9  time: 19:57:03 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7.0 1.0)
+date: 2019/3/9  time: 19:57:03 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7.0 1.0)
+date: 2019/3/9  time: 19:57:03 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7.0 1.0)
+date: 2019/3/9  time: 19:57:03 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7.0 1.0)
+date: 2019/3/9  time: 19:57:03 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7.0 1.0)
+date: 2019/3/9  time: 19:57:04 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7.0 1.0)
+date: 2019/3/9  time: 19:57:16 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7.0 1.0)
+date: 2019/3/9  time: 19:57:16 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7.0 1.0)
+date: 2019/3/9  time: 19:57:17 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7.0 1.0)
+date: 2019/3/9  time: 19:57:38 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (-1 -1) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:39 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:40 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:40 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:40 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:40 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:41 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:43 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:43 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:43 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:44 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:44 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:44 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:45 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:45 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:46 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:46 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:46 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:47 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:47 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:48 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:48 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:48 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:49 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:49 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:49 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:49 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:50 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:57:56 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:41 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (-1 -1) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:42 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:43 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:43 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (1 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:44 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (2 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:46 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (3 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:46 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (4 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:47 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (5 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:47 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (6 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:48 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (7 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:48 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (8 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:48 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (9 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:48 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (10 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:48 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (11 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:49 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (12 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:49 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (13 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:49 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (14 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:49 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (15 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:49 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (16 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:49 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (17 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:49 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (18 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:49 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (19 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:49 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (20 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:49 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (21 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:49 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (22 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:49 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (23 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:50 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (24 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:51 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (25 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:51 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (26 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:51 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (27 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:51 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (28 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:51 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (29 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:51 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (30 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:51 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (31 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 19:59:52 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (31 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:46 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (-1 -1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:47 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:47 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:48 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:48 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (1 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:49 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (2 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:49 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (3 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:49 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (4 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:50 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (5 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:50 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (6 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:50 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (7 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:50 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (1 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:51 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (2 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:51 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (3 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:52 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (4 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:52 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (5 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:52 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (6 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:52 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (7 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:53 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (1 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:56 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (2 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:57 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (3 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:57 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (4 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:57 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (5 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:08:58 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (6 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:09:00 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (7 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:09:00 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (1 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:09:02 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (1 1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:09:07 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (-1 -1) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:09:08 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:09:10 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:09:14 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:09:15 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:09:16 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:09:17 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:09:18 blockdim (#x #y ovrlap): (5 1 0.3) cur pos (x y): (0 0) max pos (x y): (7 1)
+date: 2019/3/9  time: 20:09:52 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (-1 -1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:53 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (0 0) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:53 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (0 0) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:54 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (0 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:55 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (0 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:55 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (0 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:55 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (0 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:55 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (0 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:56 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (0 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:56 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (0 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:56 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:56 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:57 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:57 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:57 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:57 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:57 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:58 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:58 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:58 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:58 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:59 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:59 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:59 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:59 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:09:59 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:00 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:00 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:00 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:00 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:01 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:01 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:01 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:01 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:02 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:02 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:02 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:02 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:03 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (5 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:03 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (5 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:03 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (5 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:03 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (5 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:04 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (5 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:04 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (5 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:04 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (5 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:04 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (6 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:04 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (6 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:05 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (6 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:05 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (6 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:05 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (6 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:05 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (6 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:06 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (6 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:06 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (7 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:06 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (7 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:07 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (7 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:07 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (7 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:07 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (7 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:07 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (7 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:08 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (7 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:08 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:09 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:09 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:09 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:09 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:10 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:10 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:10 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:10 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:10 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:10 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:10 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:10 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:10 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:10 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:11 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:11 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:11 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:11 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:11 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:11 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:11 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:11 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:18 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (-1 -1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:18 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (0 0) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:20 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (0 0) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:21 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (0 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:26 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (0 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:29 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (0 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:30 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (0 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:30 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (0 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:30 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (0 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:30 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (0 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:31 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (0 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:31 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:31 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:31 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:31 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:31 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:31 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:31 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:31 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:31 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:31 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:31 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:31 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:10:32 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:11:27 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (-1 -1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:11:28 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (0 0) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:11:28 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:11:54 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (-1 -1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:11:56 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (0 0) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:11:56 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:11:57 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:11:57 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:11:57 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:11:57 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:11:58 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:11:58 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:11:58 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:11:58 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:11:58 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:11:59 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:11:59 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:11:59 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:11:59 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:11:59 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:00 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:00 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:00 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:00 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:00 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:01 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:01 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:01 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:01 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:01 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:02 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:02 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:02 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:02 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (5 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:02 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (5 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:03 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (5 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:03 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (5 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:03 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (5 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:03 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (5 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:04 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (5 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:04 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (6 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:04 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (6 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:04 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (6 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:05 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (6 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:05 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (6 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:05 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (6 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:05 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (6 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:05 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (7 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:05 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (7 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:06 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (7 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:06 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (7 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:06 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (7 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:06 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (7 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:06 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (7 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:07 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:08 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:08 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:08 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:08 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:08 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:08 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:08 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:09 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:09 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:09 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:09 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:09 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:10 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (2 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:13 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:13 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:13 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:13 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:13 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:13 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:13 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (3 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:13 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:13 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (4 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (5 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (5 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (5 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (5 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (5 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (5 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (5 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (6 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (6 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (6 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (6 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (6 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (6 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (6 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (7 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (7 2) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (7 3) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (7 4) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (7 5) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (7 6) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:14 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (7 7) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:15 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:40 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 1) max pos (x y): (7 7)
+date: 2019/3/9  time: 20:12:40 blockdim (#x #y ovrlap): (5 5 0.3) cur pos (x y): (1 1) max pos (x y): (7 7)

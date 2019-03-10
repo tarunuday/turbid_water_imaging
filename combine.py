@@ -16,7 +16,8 @@ class imageSet:
             mypath=mypath[0:-1]
         self.mypath=mypath
         self.imageFormat=imageFormat
-        self.directory=mypath.split('/')[-1]
+        self.path=mypath.split('/')
+        self.saveFileName=str(self.path[-2])+"_"+str(self.path[-1])
         self.getFilenames(self.imageFormat)
         self.count=len(self.filenames)
         self.displaysOn=0
@@ -102,8 +103,7 @@ class imageSet:
                 self.displaysOn-=1
                 break
             elif k == ord('s'): # wait for 's' key to save and exit
-                name=str(int(time.mktime(time.gmtime())))+"_"+self.directory
-                cv2.imwrite("/home/tarun/projects/thesis/samples/"+name+".png",image)
+                cv2.imwrite("/home/tarun/projects/thesis/samples/"+self.saveFileName+".png",image)
                 print "Saved"
                 self.displaysOn-=1
                 cv2.destroyWindow(windowName)
@@ -168,6 +168,5 @@ if __name__ == '__main__':
         print("Error: No files found")
         quit()
     image=imSet.maxpix(int(noimages))
-    image=imSet.applyclahe(image,5,8)
     imSet.disp(image)
     
