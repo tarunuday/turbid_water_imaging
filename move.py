@@ -10,6 +10,10 @@ class moveStripe:
     
     def logwriter(self):
         f=open("logs/lighting.txt","a")
+        if time.localtime().tm_mday<10:
+            time_mday="0"+str(time.localtime().tm_mday)
+        else:
+            time_mday=str(time.localtime().tm_mday)
         if time.localtime().tm_hour<10:
             time_hour="0"+str(time.localtime().tm_hour)
         else:
@@ -22,11 +26,10 @@ class moveStripe:
             time_sec="0"+str(time.localtime().tm_sec)
         else:
             time_sec=str(time.localtime().tm_sec)
-        f.write("date: "+str(time.localtime().tm_year)+"/"+str(time.localtime().tm_mon)+"/"+ str(time.localtime().tm_mday)+" ")
-        f.write(" time: "+str(time_hour)+":"+str(time_min)+":"+ str(time_sec))
-        f.write(" blockdim (#x #y ovrlap): ("+str(self.no_of_blocks_x)+" "+str(self.no_of_blocks_y)+" "+str(self.overlap)+")")
-        f.write(" cur pos (x y): ("+str(self.cur_pos_x)+" "+str(self.cur_pos_y)+")")
-        f.write(" max pos (x y): ("+str(self.max_pos_x)+" "+str(self.max_pos_y)+")")
+        f.write(" "+str(time.localtime().tm_year)+"/Mar/"+ str(time_mday)+" ")
+        f.write(" "+str(time_hour)+":"+str(time_min)+":"+ str(time_sec))
+        f.write(" blocks (#x #y ovrlap): ("+str(self.no_of_blocks_x)+" "+str(self.no_of_blocks_y)+" "+str(self.overlap)+")")
+        f.write(" cur pos (x y): ("+str(self.cur_pos_x)+"/"+str(self.max_pos_x)+" "+str(self.cur_pos_y)+"/"+str(self.max_pos_y)+")")
         f.write("\n")
         f.close()
 
@@ -34,9 +37,10 @@ class moveStripe:
         windowName="Display"
         self.screen_size_x = 1080
         self.screen_size_y = 1920
-        self.no_of_blocks_x=5
-        self.no_of_blocks_y=5
-        self.overlap= 0.3
+        self.no_of_blocks_x=8
+        self.no_of_blocks_y=8
+
+        self.overlap= 0.2
 
         #  -------------> y (cols)
         #
@@ -88,7 +92,7 @@ class moveStripe:
         k=cv2.waitKey(0)
         #    if k == 27:         # wait for ESC key to exit
          #       cv2.destroyWindow(windowName)
-         #       break
+         #       break 
          #   elif k == 84 or k == 32:
         self.cur_pos_x=1
         self.cur_pos_y=1
