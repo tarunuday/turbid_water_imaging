@@ -1,4 +1,4 @@
-# turbid_water_imaging
+# Turbid Water Imaging Python scripts
 
 Python scripts used for lighting and imaging experiments as part of my thesis titled "Towards Improving Imaging in Scattering Environments"
 
